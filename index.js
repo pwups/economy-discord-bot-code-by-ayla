@@ -53,5 +53,3 @@ client.on("messageCreate", async (message) => {
         message.reply({ embeds: [dailyEmbed] });
     }
 });
-
-client.login("MTMyNDk3Nzc5MjI2MTI5MjA3Mg.GoN_GS.PsxOCiQ1qyiWuQfkNHdYHbkT_pEIaB74iOAwQk");
